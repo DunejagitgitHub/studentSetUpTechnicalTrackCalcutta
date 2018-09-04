@@ -66,6 +66,7 @@ public class EmployeeFinanceService {
 				loan= pf/2;
 			}else {
 				loan = 0 ;
+				System.out.println("checking to gitHub repository");
 			}
 		}else {
 			loan = 0;
